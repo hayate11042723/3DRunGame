@@ -1,1 +1,292 @@
-﻿  3DRunGame.vcxproj -> C:\Users\fko2347054\source\repos\3DRunGame\x64\Debug\3DRunGame.exe
+﻿  main.cpp
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(393,2): error C2065: 'PlayerGraph': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(394,15): error C2065: 'PlayerGraph': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(394,29): error C2065: 'PlayerW': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(394,39): error C2065: 'PlayerH': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(408,2): error C2065: 'PlayerX': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(409,2): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(458,17): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(463,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(464,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(468,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(487,19): error C2065: 'PlayerX': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(487,28): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(487,55): error C2065: 'PlayerX': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(487,65): error C2065: 'PlayerW': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(487,74): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(487,84): error C2065: 'PlayerH': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(487,93): error C2065: 'PlayerGraph': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(489,93): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(489,72): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(489,42): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(489,27): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(490,97): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(490,75): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(490,44): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(490,28): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(491,97): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(491,75): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(491,44): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(491,28): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(505,3): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(506,3): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(513,7): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(513,27): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(515,7): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(515,25): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(518,7): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(520,4): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(575,2): error C2065: 'PlayerGraph': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(576,15): error C2065: 'PlayerGraph': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(576,29): error C2065: 'PlayerW': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(576,39): error C2065: 'PlayerH': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(583,2): error C2065: 'PlayerX': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(584,2): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(605,3): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(611,7): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(611,27): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(613,7): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(613,25): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(616,7): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(618,4): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(630,19): error C2065: 'PlayerX': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(630,28): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(630,55): error C2065: 'PlayerX': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(630,65): error C2065: 'PlayerW': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(630,74): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(630,84): error C2065: 'PlayerH': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(630,93): error C2065: 'PlayerGraph': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(657,2): error C2065: 'PlayerGraph': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(658,15): error C2065: 'PlayerGraph': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(658,29): error C2065: 'PlayerW': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(658,39): error C2065: 'PlayerH': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(665,2): error C2065: 'PlayerX': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(666,2): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(687,3): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(693,7): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(693,27): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(695,7): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(695,25): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(698,7): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(700,4): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(712,19): error C2065: 'PlayerX': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(712,28): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(712,55): error C2065: 'PlayerX': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(712,65): error C2065: 'PlayerW': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(712,74): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(712,84): error C2065: 'PlayerH': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(712,93): error C2065: 'PlayerGraph': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(750,2): error C2065: 'PlayerGraph': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(751,15): error C2065: 'PlayerGraph': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(751,29): error C2065: 'PlayerW': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(751,39): error C2065: 'PlayerH': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(763,2): error C2065: 'PlayerX': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(764,2): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(812,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(813,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(817,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(818,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(822,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(823,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(827,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(828,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(832,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(833,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(837,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(838,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(842,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(843,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(847,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(848,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(852,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(853,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(857,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(858,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(862,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(863,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(867,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(868,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(872,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(873,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(877,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(878,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(882,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(883,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(887,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(888,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(892,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(893,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(897,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(898,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(902,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(903,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(907,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(908,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(912,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(913,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(922,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(923,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(927,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(928,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(932,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(933,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(937,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(938,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(942,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(943,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(947,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(948,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(952,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(953,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(957,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(958,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(962,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(963,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(967,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(968,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(972,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(973,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(977,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(978,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(982,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(983,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(987,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(988,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(992,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(993,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(997,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(998,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1002,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1003,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1007,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1008,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1012,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1013,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1027,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1028,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1032,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1033,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1037,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1038,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1042,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1043,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1047,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1048,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1052,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1053,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1057,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1058,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1062,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1063,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1067,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1068,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1072,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1073,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1077,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1078,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1082,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1083,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1087,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1088,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1092,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1093,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1097,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1098,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1102,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1103,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1107,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1108,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1112,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1113,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1117,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1118,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1122,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1123,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1127,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1128,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1133,3): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1134,3): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1142,7): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1142,27): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1144,7): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1144,25): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1147,7): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1149,4): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1160,8): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1164,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1175,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1204,35): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1204,22): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1205,35): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1205,22): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1216,19): error C2065: 'PlayerX': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1216,28): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1216,55): error C2065: 'PlayerX': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1216,65): error C2065: 'PlayerW': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1216,74): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1216,84): error C2065: 'PlayerH': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1216,93): error C2065: 'PlayerGraph': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1220,94): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1220,73): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1220,43): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1220,28): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1221,98): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1221,76): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1221,45): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1221,29): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1222,98): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1222,76): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1222,45): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1222,29): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1223,98): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1223,76): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1223,45): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1223,29): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1224,98): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1224,76): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1224,45): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1224,29): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1225,98): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1225,76): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1225,45): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1225,29): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1226,98): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1226,76): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1226,45): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1226,29): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1227,98): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1227,76): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1227,45): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1227,29): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1228,98): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1228,76): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1228,45): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1228,29): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1229,98): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1229,76): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1229,45): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1229,29): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1233,8): error C2065: 'PlayerX': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1233,46): error C2065: 'PlayerX': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1234,9): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1234,47): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1236,18): error C2065: 'PlayerGraph': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1240,8): error C2065: 'PlayerX': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1240,47): error C2065: 'PlayerX': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1241,9): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1241,48): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1243,18): error C2065: 'PlayerGraph': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1247,8): error C2065: 'PlayerX': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1247,47): error C2065: 'PlayerX': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1248,9): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1248,48): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1250,18): error C2065: 'PlayerGraph': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1254,8): error C2065: 'PlayerX': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1254,47): error C2065: 'PlayerX': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1255,9): error C2065: 'PlayerY': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1255,8): fatal  error C1003: プログラム内のエラーが 100 個を超えました。コンパイルは中断されます。
+  Enemy.cpp
+  Player.cpp
+  コードを生成中...
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(21): error C4716: 'Player::CheckCollision': 値を返さなければいけません
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Enemy.cpp(21): error C4716: 'Enemy::CheckCollision': 値を返さなければいけません
