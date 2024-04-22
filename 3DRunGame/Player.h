@@ -4,6 +4,8 @@
 #ifndef PLAYER_H
 #define PLAYER_H
 
+class Enemy;
+
 class Player {
 public:
     Player();

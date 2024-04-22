@@ -361,51 +361,51 @@ C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Enemy.cpp(432,75): 
 C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Enemy.cpp(432,44): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
 C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Enemy.cpp(432,28): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
   Player.cpp
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(32,13): warning C4244: '-=': 'float' から 'int' への変換です。データが失われる可能性があります。
 C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(33,13): warning C4244: '-=': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(63,17): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(74,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(94,35): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(101,31): error C2065: 'EnemyPos': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(101,56): error C2065: 'EnemyPos': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(102,32): error C2065: 'EnemyPos': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(102,57): error C2065: 'EnemyPos': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(108,31): error C2065: 'EnemyPos1': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(108,57): error C2065: 'EnemyPos1': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(109,32): error C2065: 'EnemyPos1': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(109,58): error C2065: 'EnemyPos1': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(115,31): error C2065: 'EnemyPos2': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(115,57): error C2065: 'EnemyPos2': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(116,32): error C2065: 'EnemyPos2': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(116,58): error C2065: 'EnemyPos2': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(122,31): error C2065: 'EnemyPos3': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(122,57): error C2065: 'EnemyPos3': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(123,32): error C2065: 'EnemyPos3': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(123,58): error C2065: 'EnemyPos3': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(129,31): error C2065: 'EnemyPos4': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(129,57): error C2065: 'EnemyPos4': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(130,32): error C2065: 'EnemyPos4': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(130,58): error C2065: 'EnemyPos4': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(135,32): error C2065: 'EnemyPos5': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(135,58): error C2065: 'EnemyPos5': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(34,13): warning C4244: '-=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(64,17): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(75,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(95,35): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(102,31): error C2065: 'EnemyPos': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(102,56): error C2065: 'EnemyPos': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(103,32): error C2065: 'EnemyPos': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(103,57): error C2065: 'EnemyPos': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(109,31): error C2065: 'EnemyPos1': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(109,57): error C2065: 'EnemyPos1': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(110,32): error C2065: 'EnemyPos1': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(110,58): error C2065: 'EnemyPos1': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(116,31): error C2065: 'EnemyPos2': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(116,57): error C2065: 'EnemyPos2': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(117,32): error C2065: 'EnemyPos2': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(117,58): error C2065: 'EnemyPos2': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(123,31): error C2065: 'EnemyPos3': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(123,57): error C2065: 'EnemyPos3': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(124,32): error C2065: 'EnemyPos3': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(124,58): error C2065: 'EnemyPos3': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(130,31): error C2065: 'EnemyPos4': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(130,57): error C2065: 'EnemyPos4': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(131,32): error C2065: 'EnemyPos4': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(131,58): error C2065: 'EnemyPos4': 定義されていない識別子です。
 C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(136,32): error C2065: 'EnemyPos5': 定義されていない識別子です。
 C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(136,58): error C2065: 'EnemyPos5': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(141,32): error C2065: 'EnemyPos6': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(141,58): error C2065: 'EnemyPos6': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(137,32): error C2065: 'EnemyPos5': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(137,58): error C2065: 'EnemyPos5': 定義されていない識別子です。
 C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(142,32): error C2065: 'EnemyPos6': 定義されていない識別子です。
 C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(142,58): error C2065: 'EnemyPos6': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(147,32): error C2065: 'EnemyPos7': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(147,58): error C2065: 'EnemyPos7': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(143,32): error C2065: 'EnemyPos6': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(143,58): error C2065: 'EnemyPos6': 定義されていない識別子です。
 C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(148,32): error C2065: 'EnemyPos7': 定義されていない識別子です。
 C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(148,58): error C2065: 'EnemyPos7': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(153,32): error C2065: 'EnemyPos8': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(153,58): error C2065: 'EnemyPos8': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(149,32): error C2065: 'EnemyPos7': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(149,58): error C2065: 'EnemyPos7': 定義されていない識別子です。
 C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(154,32): error C2065: 'EnemyPos8': 定義されていない識別子です。
 C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(154,58): error C2065: 'EnemyPos8': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(159,32): error C2065: 'EnemyPos9': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(159,58): error C2065: 'EnemyPos9': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(155,32): error C2065: 'EnemyPos8': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(155,58): error C2065: 'EnemyPos8': 定義されていない識別子です。
 C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(160,32): error C2065: 'EnemyPos9': 定義されていない識別子です。
 C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(160,58): error C2065: 'EnemyPos9': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(161,32): error C2065: 'EnemyPos9': 定義されていない識別子です。
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(161,58): error C2065: 'EnemyPos9': 定義されていない識別子です。
   コードを生成中...
 C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1401): warning C4715: 'GameOverScene': 値を返さないコントロール パスがあります。
 C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1220): error C4700: 初期化されていないローカル変数 'EnemyGraph' が使用されます
