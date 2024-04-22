@@ -4,7 +4,7 @@ GameScene::GameScene() {
     // コンストラクタの実装
 }
 
-void GameScene::Initialize() {
+void GameScene::Init() {
     // 初期化処理の実装
 }
 

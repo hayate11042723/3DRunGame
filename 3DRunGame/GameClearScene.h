@@ -4,7 +4,7 @@
 class GameClearScene {
 public:
     GameClearScene();
-    void Initialize();
+    void Init();
     void Update();
     void Draw();
     // 他のメンバやメソッドを追加する可能性があります

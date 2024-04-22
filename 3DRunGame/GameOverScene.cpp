@@ -4,7 +4,7 @@ GameOverScene::GameOverScene() {
     // コンストラクタの実装
 }
 
-void GameOverScene::Initialize() {
+void GameOverScene::Init() {
     // 初期化処理の実装
 }
 

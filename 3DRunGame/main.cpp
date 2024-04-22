@@ -750,12 +750,8 @@ int GameScene()
 	int JumpHeight1 = 15;
 	int CountFrame = 0;
 
-	// グラフィック『player.png』をメモリにロード
-	PlayerGraph = LoadGraph("image/player.png");
-	GetGraphSize(PlayerGraph, &PlayerW, &PlayerH);
-	// グラフィック『enemy.png』をメモリにロード
-	EnemyGraph = LoadGraph("image/enemy.png");
-	GetGraphSize(EnemyGraph, &EnemyW, &EnemyH);
+
+	
 	// グラフィック『back.png』をメモリにロード
 	BackGraph = LoadGraph("image/back.png");
 	// 音源『SlimeSe.mp3』をメモリにロード

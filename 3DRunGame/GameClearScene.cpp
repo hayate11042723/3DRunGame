@@ -4,7 +4,7 @@ GameClearScene::GameClearScene() {
     // コンストラクタの実装
 }
 
-void GameClearScene::Initialize() {
+void GameClearScene::Init() {
     // 初期化処理の実装
 }
 
