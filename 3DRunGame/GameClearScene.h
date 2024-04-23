@@ -1,3 +1,4 @@
+#include"define.h"
 #ifndef GAMECLEARSCENE_H
 #define GAMECLEARSCENE_H
 
@@ -7,9 +8,12 @@ public:
     void Init();
     void Update();
     void Draw();
-    // 他のメンバやメソッドを追加する可能性があります
+   
 private:
-    // 他のメンバ変数を追加する可能性があります
+    int ArrowPosY;
+    int CountFrame;
+    int AreaX;
+    int Speed;
 };
 
 #endif // GAMECLEARSCENE_H

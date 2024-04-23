@@ -1,3 +1,4 @@
+#include "define.h"
 #ifndef GAMEOVERSCENE_H
 #define GAMEOVERSCENE_H
 
@@ -7,9 +8,11 @@ public:
     void Init();
     void Update();
     void Draw();
-    // 他のメンバやメソッドを追加する可能性があります
+
 private:
-    // 他のメンバ変数を追加する可能性があります
+    int ArrowPosY;
+    int CountFrame;
+
 };
 
 #endif // GAMEOVERSCENE_H
