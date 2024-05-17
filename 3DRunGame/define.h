@@ -1,6 +1,7 @@
 #pragma once
 #include "DxLib.h"
 #include "math.h"
+#include "InputManager.h"
 
 #define IMAGE_SIZE	50
 
@@ -84,13 +85,6 @@ constexpr int GAMESCENE = 4;
 constexpr int GAMEOVERSCENE = 5;
 constexpr int GAMECLEARSCENE = 6;
 
-int TitleScene();
-int ManualScene();
-int StartManualScene();
-int GameScene();
-int GameOverScene();
-int GameClearScene();
-
 bool IsInputEnterHold = false;// InputEneter用の変数
 bool IsInputUpHold = false;// InputUp用の変数
 bool IsInputDownHold = false;// InputDown用の変数
@@ -109,3 +103,19 @@ XINPUT_STATE Input;
 
 // 座標の初期化用
 float Initialization = 800;
+
+// エネミー構造体
+VECTOR EnemyPos;
+VECTOR EnemyPos1;
+VECTOR EnemyPos2;
+VECTOR EnemyPos3;
+VECTOR EnemyPos4;
+VECTOR EnemyPos5;
+VECTOR EnemyPos6;
+VECTOR EnemyPos7;
+VECTOR EnemyPos8;
+VECTOR EnemyPos9;
+
+// テロップ構造体
+VECTOR TelopPos1;
+VECTOR TelopPos2;

@@ -43,16 +43,6 @@ void GameClearScene::Update() {
 	}
 
 	ScreenFlip();
-
-	/*シーン遷移処理*/
-	//エンターでシーン変更
-	if (ConfirmButton())
-	{
-		if (ArrowPosY == 10)
-		{
-			return TITLESCENE;
-		}
-	}
 }
 
 void GameClearScene::Draw() {

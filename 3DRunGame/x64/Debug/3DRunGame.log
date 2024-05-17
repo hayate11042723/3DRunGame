@@ -1,245 +1,317 @@
-﻿  main.cpp
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(462,17): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(467,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(468,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(472,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(491,36): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(493,93): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(493,72): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(493,42): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(493,27): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(494,97): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(494,75): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(494,44): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(494,28): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(495,97): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(495,75): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(495,44): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(495,28): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(509,14): warning C4244: '-=': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(510,14): warning C4244: '-=': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(609,14): warning C4244: '-=': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(634,36): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(691,14): warning C4244: '-=': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(716,36): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(812,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(813,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(817,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(818,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(822,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(823,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(827,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(828,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(832,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(833,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(837,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(838,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(842,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(843,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(847,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(848,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(852,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(853,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(857,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(858,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(862,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(863,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(867,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(868,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(872,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(873,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(877,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(878,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(882,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(883,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(887,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(888,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(892,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(893,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(897,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(898,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(902,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(903,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(907,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(908,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(912,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(913,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(922,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(923,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(927,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(928,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(932,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(933,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(937,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(938,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(942,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(943,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(947,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(948,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(952,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(953,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(957,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(958,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(962,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(963,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(967,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(968,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(972,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(973,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(977,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(978,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(982,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(983,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(987,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(988,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(992,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(993,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(997,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(998,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1002,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1003,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1007,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1008,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1012,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1013,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1027,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1028,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1032,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1033,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1037,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1038,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1042,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1043,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1047,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1048,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1052,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1053,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1057,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1058,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1062,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1063,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1067,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1068,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1072,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1073,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1077,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1078,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1082,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1083,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1087,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1088,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1092,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1093,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1097,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1098,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1102,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1103,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1107,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1108,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1112,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1113,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1117,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1118,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1122,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1123,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1127,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1128,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1133,14): warning C4244: '-=': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1134,14): warning C4244: '-=': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1164,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1175,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1204,35): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1204,22): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1205,35): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1205,22): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1216,36): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1220,94): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1220,73): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1220,43): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1220,28): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1221,98): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1221,76): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1221,45): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1221,29): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1222,98): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1222,76): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1222,45): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1222,29): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1223,98): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1223,76): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1223,45): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1223,29): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1224,98): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1224,76): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1224,45): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1224,29): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1225,98): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1225,76): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1225,45): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1225,29): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1226,98): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1226,76): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1226,45): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1226,29): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1227,98): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1227,76): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1227,45): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1227,29): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1228,98): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1228,76): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1228,45): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1228,29): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1229,98): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1229,76): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1229,45): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1229,29): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-  GameScene.cpp
-  Player.cpp
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(33,13): warning C4244: '-=': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(34,13): warning C4244: '-=': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(64,17): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(75,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(95,35): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(102,31): error C2065: 'EnemyPos': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(102,56): error C2065: 'EnemyPos': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(103,32): error C2065: 'EnemyPos': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(103,57): error C2065: 'EnemyPos': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(109,31): error C2065: 'EnemyPos1': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(109,57): error C2065: 'EnemyPos1': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(110,32): error C2065: 'EnemyPos1': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(110,58): error C2065: 'EnemyPos1': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(116,31): error C2065: 'EnemyPos2': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(116,57): error C2065: 'EnemyPos2': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(117,32): error C2065: 'EnemyPos2': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(117,58): error C2065: 'EnemyPos2': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(123,31): error C2065: 'EnemyPos3': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(123,57): error C2065: 'EnemyPos3': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(124,32): error C2065: 'EnemyPos3': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(124,58): error C2065: 'EnemyPos3': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(130,31): error C2065: 'EnemyPos4': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(130,57): error C2065: 'EnemyPos4': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(131,32): error C2065: 'EnemyPos4': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(131,58): error C2065: 'EnemyPos4': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(136,32): error C2065: 'EnemyPos5': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(136,58): error C2065: 'EnemyPos5': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(137,32): error C2065: 'EnemyPos5': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(137,58): error C2065: 'EnemyPos5': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(142,32): error C2065: 'EnemyPos6': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(142,58): error C2065: 'EnemyPos6': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(143,32): error C2065: 'EnemyPos6': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(143,58): error C2065: 'EnemyPos6': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(148,32): error C2065: 'EnemyPos7': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(148,58): error C2065: 'EnemyPos7': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(149,32): error C2065: 'EnemyPos7': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(149,58): error C2065: 'EnemyPos7': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(154,32): error C2065: 'EnemyPos8': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(154,58): error C2065: 'EnemyPos8': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(155,32): error C2065: 'EnemyPos8': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(155,58): error C2065: 'EnemyPos8': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(160,32): error C2065: 'EnemyPos9': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(160,58): error C2065: 'EnemyPos9': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(161,32): error C2065: 'EnemyPos9': 定義されていない識別子です。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\Player.cpp(161,58): error C2065: 'EnemyPos9': 定義されていない識別子です。
-  コードを生成中...
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1401): warning C4715: 'GameOverScene': 値を返さないコントロール パスがあります。
-C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\main.cpp(1220): error C4700: 初期化されていないローカル変数 'EnemyGraph' が使用されます
+﻿Enemy.obj : error LNK2005: "int Key" (?Key@@3HA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "int Key1" (?Key1@@3HA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "int Key2" (?Key2@@3HA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "int Cr1" (?Cr1@@3HA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "int Cr2" (?Cr2@@3HA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "int GroundCoordinate" (?GroundCoordinate@@3HA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "int EnemyStart" (?EnemyStart@@3HA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "int EnemyUp1" (?EnemyUp1@@3HA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "int EnemyUp2" (?EnemyUp2@@3HA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "int Time" (?Time@@3HA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "int PlayerX" (?PlayerX@@3HA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "int PlayerY" (?PlayerY@@3HA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "int PlayerH" (?PlayerH@@3HA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "int PlayerW" (?PlayerW@@3HA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "int PlayerGraph" (?PlayerGraph@@3HA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "int EnemyW" (?EnemyW@@3HA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "int EnemyH" (?EnemyH@@3HA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "int Telop1Graph" (?Telop1Graph@@3HA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "int Telop2Graph" (?Telop2Graph@@3HA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "int BackGraph" (?BackGraph@@3HA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "int TitleGraph" (?TitleGraph@@3HA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "int TitleScrollGraph" (?TitleScrollGraph@@3HA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "int ChangeSceenGraph" (?ChangeSceenGraph@@3HA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "int ChangeSceen2Graph" (?ChangeSceen2Graph@@3HA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "int BackGlassGraph" (?BackGlassGraph@@3HA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "int ManualGraph" (?ManualGraph@@3HA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "int Manual2Graph" (?Manual2Graph@@3HA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "int GameOverGraph" (?GameOverGraph@@3HA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "int GameOverTxtGraph" (?GameOverTxtGraph@@3HA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "int ClearGraph" (?ClearGraph@@3HA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "int GameClearTxtGraph" (?GameClearTxtGraph@@3HA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "int SkyGraph" (?SkyGraph@@3HA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "int MountainGraph" (?MountainGraph@@3HA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "int GraundGraph" (?GraundGraph@@3HA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "int SlimeAyeGraph" (?SlimeAyeGraph@@3HA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "int SlimeAye2Graph" (?SlimeAye2Graph@@3HA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "int ArrowGraph" (?ArrowGraph@@3HA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "int BgmHandle" (?BgmHandle@@3HA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "int SeHandle" (?SeHandle@@3HA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "int GameOverHandle" (?GameOverHandle@@3HA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "float JumpPower" (?JumpPower@@3MA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "float JumpPower1" (?JumpPower1@@3MA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "bool IsInputEnterHold" (?IsInputEnterHold@@3_NA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "bool IsInputUpHold" (?IsInputUpHold@@3_NA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "bool IsInputDownHold" (?IsInputDownHold@@3_NA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "bool IsInputJump1Hold" (?IsInputJump1Hold@@3_NA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "bool IsInputJump2Hold" (?IsInputJump2Hold@@3_NA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "bool IsInputJump3Hold" (?IsInputJump3Hold@@3_NA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "struct DxLib::tagXINPUT_STATE Input" (?Input@@3UtagXINPUT_STATE@DxLib@@A) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "float Initialization" (?Initialization@@3MA) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos" (?EnemyPos@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos1" (?EnemyPos1@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos2" (?EnemyPos2@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos3" (?EnemyPos3@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos4" (?EnemyPos4@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos5" (?EnemyPos5@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos6" (?EnemyPos6@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos7" (?EnemyPos7@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos8" (?EnemyPos8@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos9" (?EnemyPos9@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "struct DxLib::tagVECTOR TelopPos1" (?TelopPos1@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+Enemy.obj : error LNK2005: "struct DxLib::tagVECTOR TelopPos2" (?TelopPos2@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "int Key" (?Key@@3HA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "int Key1" (?Key1@@3HA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "int Key2" (?Key2@@3HA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "int Cr1" (?Cr1@@3HA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "int Cr2" (?Cr2@@3HA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "int GroundCoordinate" (?GroundCoordinate@@3HA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "int EnemyStart" (?EnemyStart@@3HA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "int EnemyUp1" (?EnemyUp1@@3HA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "int EnemyUp2" (?EnemyUp2@@3HA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "int Time" (?Time@@3HA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "int PlayerX" (?PlayerX@@3HA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "int PlayerY" (?PlayerY@@3HA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "int PlayerH" (?PlayerH@@3HA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "int PlayerW" (?PlayerW@@3HA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "int PlayerGraph" (?PlayerGraph@@3HA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "int EnemyW" (?EnemyW@@3HA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "int EnemyH" (?EnemyH@@3HA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "int Telop1Graph" (?Telop1Graph@@3HA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "int Telop2Graph" (?Telop2Graph@@3HA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "int BackGraph" (?BackGraph@@3HA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "int TitleGraph" (?TitleGraph@@3HA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "int TitleScrollGraph" (?TitleScrollGraph@@3HA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "int ChangeSceenGraph" (?ChangeSceenGraph@@3HA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "int ChangeSceen2Graph" (?ChangeSceen2Graph@@3HA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "int BackGlassGraph" (?BackGlassGraph@@3HA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "int ManualGraph" (?ManualGraph@@3HA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "int Manual2Graph" (?Manual2Graph@@3HA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "int GameOverGraph" (?GameOverGraph@@3HA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "int GameOverTxtGraph" (?GameOverTxtGraph@@3HA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "int ClearGraph" (?ClearGraph@@3HA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "int GameClearTxtGraph" (?GameClearTxtGraph@@3HA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "int SkyGraph" (?SkyGraph@@3HA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "int MountainGraph" (?MountainGraph@@3HA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "int GraundGraph" (?GraundGraph@@3HA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "int SlimeAyeGraph" (?SlimeAyeGraph@@3HA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "int SlimeAye2Graph" (?SlimeAye2Graph@@3HA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "int ArrowGraph" (?ArrowGraph@@3HA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "int BgmHandle" (?BgmHandle@@3HA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "int SeHandle" (?SeHandle@@3HA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "int GameOverHandle" (?GameOverHandle@@3HA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "float JumpPower" (?JumpPower@@3MA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "float JumpPower1" (?JumpPower1@@3MA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "bool IsInputEnterHold" (?IsInputEnterHold@@3_NA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "bool IsInputUpHold" (?IsInputUpHold@@3_NA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "bool IsInputDownHold" (?IsInputDownHold@@3_NA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "bool IsInputJump1Hold" (?IsInputJump1Hold@@3_NA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "bool IsInputJump2Hold" (?IsInputJump2Hold@@3_NA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "bool IsInputJump3Hold" (?IsInputJump3Hold@@3_NA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "struct DxLib::tagXINPUT_STATE Input" (?Input@@3UtagXINPUT_STATE@DxLib@@A) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "float Initialization" (?Initialization@@3MA) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos" (?EnemyPos@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos1" (?EnemyPos1@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos2" (?EnemyPos2@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos3" (?EnemyPos3@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos4" (?EnemyPos4@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos5" (?EnemyPos5@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos6" (?EnemyPos6@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos7" (?EnemyPos7@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos8" (?EnemyPos8@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos9" (?EnemyPos9@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "struct DxLib::tagVECTOR TelopPos1" (?TelopPos1@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+GameClearScene.obj : error LNK2005: "struct DxLib::tagVECTOR TelopPos2" (?TelopPos2@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "int Key" (?Key@@3HA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "int Key1" (?Key1@@3HA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "int Key2" (?Key2@@3HA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "int Cr1" (?Cr1@@3HA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "int Cr2" (?Cr2@@3HA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "int GroundCoordinate" (?GroundCoordinate@@3HA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "int EnemyStart" (?EnemyStart@@3HA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "int EnemyUp1" (?EnemyUp1@@3HA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "int EnemyUp2" (?EnemyUp2@@3HA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "int Time" (?Time@@3HA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "int PlayerX" (?PlayerX@@3HA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "int PlayerY" (?PlayerY@@3HA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "int PlayerH" (?PlayerH@@3HA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "int PlayerW" (?PlayerW@@3HA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "int PlayerGraph" (?PlayerGraph@@3HA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "int EnemyW" (?EnemyW@@3HA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "int EnemyH" (?EnemyH@@3HA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "int Telop1Graph" (?Telop1Graph@@3HA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "int Telop2Graph" (?Telop2Graph@@3HA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "int BackGraph" (?BackGraph@@3HA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "int TitleGraph" (?TitleGraph@@3HA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "int TitleScrollGraph" (?TitleScrollGraph@@3HA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "int ChangeSceenGraph" (?ChangeSceenGraph@@3HA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "int ChangeSceen2Graph" (?ChangeSceen2Graph@@3HA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "int BackGlassGraph" (?BackGlassGraph@@3HA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "int ManualGraph" (?ManualGraph@@3HA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "int Manual2Graph" (?Manual2Graph@@3HA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "int GameOverGraph" (?GameOverGraph@@3HA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "int GameOverTxtGraph" (?GameOverTxtGraph@@3HA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "int ClearGraph" (?ClearGraph@@3HA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "int GameClearTxtGraph" (?GameClearTxtGraph@@3HA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "int SkyGraph" (?SkyGraph@@3HA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "int MountainGraph" (?MountainGraph@@3HA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "int GraundGraph" (?GraundGraph@@3HA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "int SlimeAyeGraph" (?SlimeAyeGraph@@3HA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "int SlimeAye2Graph" (?SlimeAye2Graph@@3HA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "int ArrowGraph" (?ArrowGraph@@3HA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "int BgmHandle" (?BgmHandle@@3HA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "int SeHandle" (?SeHandle@@3HA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "int GameOverHandle" (?GameOverHandle@@3HA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "float JumpPower" (?JumpPower@@3MA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "float JumpPower1" (?JumpPower1@@3MA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "bool IsInputEnterHold" (?IsInputEnterHold@@3_NA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "bool IsInputUpHold" (?IsInputUpHold@@3_NA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "bool IsInputDownHold" (?IsInputDownHold@@3_NA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "bool IsInputJump1Hold" (?IsInputJump1Hold@@3_NA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "bool IsInputJump2Hold" (?IsInputJump2Hold@@3_NA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "bool IsInputJump3Hold" (?IsInputJump3Hold@@3_NA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "struct DxLib::tagXINPUT_STATE Input" (?Input@@3UtagXINPUT_STATE@DxLib@@A) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "float Initialization" (?Initialization@@3MA) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos" (?EnemyPos@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos1" (?EnemyPos1@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos2" (?EnemyPos2@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos3" (?EnemyPos3@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos4" (?EnemyPos4@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos5" (?EnemyPos5@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos6" (?EnemyPos6@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos7" (?EnemyPos7@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos8" (?EnemyPos8@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos9" (?EnemyPos9@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "struct DxLib::tagVECTOR TelopPos1" (?TelopPos1@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2005: "struct DxLib::tagVECTOR TelopPos2" (?TelopPos2@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "int Key" (?Key@@3HA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "int Key1" (?Key1@@3HA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "int Key2" (?Key2@@3HA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "int Cr1" (?Cr1@@3HA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "int Cr2" (?Cr2@@3HA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "int GroundCoordinate" (?GroundCoordinate@@3HA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "int EnemyStart" (?EnemyStart@@3HA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "int EnemyUp1" (?EnemyUp1@@3HA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "int EnemyUp2" (?EnemyUp2@@3HA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "int Time" (?Time@@3HA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "int PlayerX" (?PlayerX@@3HA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "int PlayerY" (?PlayerY@@3HA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "int PlayerH" (?PlayerH@@3HA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "int PlayerW" (?PlayerW@@3HA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "int PlayerGraph" (?PlayerGraph@@3HA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "int EnemyW" (?EnemyW@@3HA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "int EnemyH" (?EnemyH@@3HA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "int Telop1Graph" (?Telop1Graph@@3HA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "int Telop2Graph" (?Telop2Graph@@3HA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "int BackGraph" (?BackGraph@@3HA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "int TitleGraph" (?TitleGraph@@3HA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "int TitleScrollGraph" (?TitleScrollGraph@@3HA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "int ChangeSceenGraph" (?ChangeSceenGraph@@3HA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "int ChangeSceen2Graph" (?ChangeSceen2Graph@@3HA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "int BackGlassGraph" (?BackGlassGraph@@3HA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "int ManualGraph" (?ManualGraph@@3HA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "int Manual2Graph" (?Manual2Graph@@3HA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "int GameOverGraph" (?GameOverGraph@@3HA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "int GameOverTxtGraph" (?GameOverTxtGraph@@3HA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "int ClearGraph" (?ClearGraph@@3HA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "int GameClearTxtGraph" (?GameClearTxtGraph@@3HA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "int SkyGraph" (?SkyGraph@@3HA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "int MountainGraph" (?MountainGraph@@3HA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "int GraundGraph" (?GraundGraph@@3HA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "int SlimeAyeGraph" (?SlimeAyeGraph@@3HA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "int SlimeAye2Graph" (?SlimeAye2Graph@@3HA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "int ArrowGraph" (?ArrowGraph@@3HA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "int BgmHandle" (?BgmHandle@@3HA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "int SeHandle" (?SeHandle@@3HA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "int GameOverHandle" (?GameOverHandle@@3HA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "float JumpPower" (?JumpPower@@3MA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "float JumpPower1" (?JumpPower1@@3MA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "bool IsInputEnterHold" (?IsInputEnterHold@@3_NA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "bool IsInputUpHold" (?IsInputUpHold@@3_NA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "bool IsInputDownHold" (?IsInputDownHold@@3_NA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "bool IsInputJump1Hold" (?IsInputJump1Hold@@3_NA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "bool IsInputJump2Hold" (?IsInputJump2Hold@@3_NA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "bool IsInputJump3Hold" (?IsInputJump3Hold@@3_NA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "struct DxLib::tagXINPUT_STATE Input" (?Input@@3UtagXINPUT_STATE@DxLib@@A) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "float Initialization" (?Initialization@@3MA) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos" (?EnemyPos@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos1" (?EnemyPos1@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos2" (?EnemyPos2@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos3" (?EnemyPos3@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos4" (?EnemyPos4@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos5" (?EnemyPos5@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos6" (?EnemyPos6@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos7" (?EnemyPos7@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos8" (?EnemyPos8@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos9" (?EnemyPos9@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "struct DxLib::tagVECTOR TelopPos1" (?TelopPos1@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+Player.obj : error LNK2005: "struct DxLib::tagVECTOR TelopPos2" (?TelopPos2@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "int Key" (?Key@@3HA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "int Key1" (?Key1@@3HA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "int Key2" (?Key2@@3HA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "int Cr1" (?Cr1@@3HA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "int Cr2" (?Cr2@@3HA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "int GroundCoordinate" (?GroundCoordinate@@3HA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "int EnemyStart" (?EnemyStart@@3HA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "int EnemyUp1" (?EnemyUp1@@3HA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "int EnemyUp2" (?EnemyUp2@@3HA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "int Time" (?Time@@3HA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "int PlayerX" (?PlayerX@@3HA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "int PlayerY" (?PlayerY@@3HA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "int PlayerH" (?PlayerH@@3HA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "int PlayerW" (?PlayerW@@3HA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "int PlayerGraph" (?PlayerGraph@@3HA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "int EnemyW" (?EnemyW@@3HA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "int EnemyH" (?EnemyH@@3HA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "int Telop1Graph" (?Telop1Graph@@3HA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "int Telop2Graph" (?Telop2Graph@@3HA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "int BackGraph" (?BackGraph@@3HA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "int TitleGraph" (?TitleGraph@@3HA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "int TitleScrollGraph" (?TitleScrollGraph@@3HA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "int ChangeSceenGraph" (?ChangeSceenGraph@@3HA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "int ChangeSceen2Graph" (?ChangeSceen2Graph@@3HA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "int BackGlassGraph" (?BackGlassGraph@@3HA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "int ManualGraph" (?ManualGraph@@3HA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "int Manual2Graph" (?Manual2Graph@@3HA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "int GameOverGraph" (?GameOverGraph@@3HA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "int GameOverTxtGraph" (?GameOverTxtGraph@@3HA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "int ClearGraph" (?ClearGraph@@3HA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "int GameClearTxtGraph" (?GameClearTxtGraph@@3HA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "int SkyGraph" (?SkyGraph@@3HA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "int MountainGraph" (?MountainGraph@@3HA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "int GraundGraph" (?GraundGraph@@3HA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "int SlimeAyeGraph" (?SlimeAyeGraph@@3HA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "int SlimeAye2Graph" (?SlimeAye2Graph@@3HA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "int ArrowGraph" (?ArrowGraph@@3HA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "int BgmHandle" (?BgmHandle@@3HA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "int SeHandle" (?SeHandle@@3HA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "int GameOverHandle" (?GameOverHandle@@3HA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "float JumpPower" (?JumpPower@@3MA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "float JumpPower1" (?JumpPower1@@3MA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "bool IsInputEnterHold" (?IsInputEnterHold@@3_NA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "bool IsInputUpHold" (?IsInputUpHold@@3_NA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "bool IsInputDownHold" (?IsInputDownHold@@3_NA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "bool IsInputJump1Hold" (?IsInputJump1Hold@@3_NA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "bool IsInputJump2Hold" (?IsInputJump2Hold@@3_NA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "bool IsInputJump3Hold" (?IsInputJump3Hold@@3_NA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "struct DxLib::tagXINPUT_STATE Input" (?Input@@3UtagXINPUT_STATE@DxLib@@A) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "float Initialization" (?Initialization@@3MA) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos" (?EnemyPos@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos1" (?EnemyPos1@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos2" (?EnemyPos2@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos3" (?EnemyPos3@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos4" (?EnemyPos4@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos5" (?EnemyPos5@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos6" (?EnemyPos6@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos7" (?EnemyPos7@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos8" (?EnemyPos8@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "struct DxLib::tagVECTOR EnemyPos9" (?EnemyPos9@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "struct DxLib::tagVECTOR TelopPos1" (?TelopPos1@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+TitleScene.obj : error LNK2005: "struct DxLib::tagVECTOR TelopPos2" (?TelopPos2@@3UtagVECTOR@DxLib@@A) は既に main.obj で定義されています。
+GameOverScene.obj : error LNK2019: 未解決の外部シンボル "bool __cdecl InputUp(void)" (?InputUp@@YA_NXZ) が関数 "public: void __cdecl GameOverScene::Update(void)" (?Update@GameOverScene@@QEAAXXZ) で参照されました
+TitleScene.obj : error LNK2001: 外部シンボル "bool __cdecl InputUp(void)" (?InputUp@@YA_NXZ) は未解決です
+GameOverScene.obj : error LNK2019: 未解決の外部シンボル "bool __cdecl InputDown(void)" (?InputDown@@YA_NXZ) が関数 "public: void __cdecl GameOverScene::Update(void)" (?Update@GameOverScene@@QEAAXXZ) で参照されました
+TitleScene.obj : error LNK2001: 外部シンボル "bool __cdecl InputDown(void)" (?InputDown@@YA_NXZ) は未解決です
+Player.obj : error LNK2019: 未解決の外部シンボル "bool __cdecl InputJump1(void)" (?InputJump1@@YA_NXZ) が関数 "public: void __cdecl Player::Update(void)" (?Update@Player@@QEAAXXZ) で参照されました
+Player.obj : error LNK2019: 未解決の外部シンボル "bool __cdecl InputJump2(void)" (?InputJump2@@YA_NXZ) が関数 "public: void __cdecl Player::Update(void)" (?Update@Player@@QEAAXXZ) で参照されました
+C:\Users\fko2347054\Desktop\中原颯希\3DRunGame\3DRunGame\x64\Debug\3DRunGame.exe : fatal error LNK1120: 4 件の未解決の外部参照

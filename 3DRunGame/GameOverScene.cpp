@@ -70,20 +70,6 @@ void GameOverScene::Update() {
 	}
 
 	ScreenFlip();
-
-	/*シーン遷移処理*/
-	//エンターでシーン変更
-	if (ConfirmButton())
-	{
-		if (ArrowPosY == 0)
-		{
-			return GAMESCENE;
-		}
-		else
-		{
-			return TITLESCENE;
-		}
-	}
 }
 
     // 描画処理の実装
